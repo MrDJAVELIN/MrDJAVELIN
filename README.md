@@ -1,7 +1,7 @@
 <h1>Hello👋! I'm DJAVELIN</h1>
 <p>I'm graphic designer🎨<br>Python and javascript coder💻</p>
+Languages🌍:
 <ul>
-  Languages:
   <li>Python</li>
   <li>Javascript</li>
   <li>HTML</li>
