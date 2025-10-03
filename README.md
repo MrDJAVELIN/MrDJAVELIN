@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is DJAVELIN. I'm a Frontend developer, from Ukraine.</h1>
+<h1 align="left">👋🇺🇦</h1>
 
 ###
 
